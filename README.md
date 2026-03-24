@@ -5,8 +5,6 @@
 # Hey there 👋, I'm **Steve Philip**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=stevephilipgit&label=Profile%20Views&color=blueviolet&style=flat)
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=stevephilipgit&theme=radical&no-frame=true&row=1)](https://github.com/stevephilipgit)
-
 </div>
 
 ---
