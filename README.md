@@ -23,7 +23,7 @@ My work sits at the crossroads of **Machine Learning**, **Computer Vision**, **G
 - 📚 BSc in Computer Science · MSc in Information Technology
 - 💬 Ask me about **AI Agents, RAG pipelines, Computer Vision, and LLMs**
 - ⚡ Fun fact: I debug faster when I've convinced myself it's an interesting puzzle 🧩
-- 📫 Reach me: **[your.email@gmail.com](stevephilip.me86@gmail.com)**
+- 📫 Reach me: **[stevephilip.me86@gmail.com]**
 
 ---
 
@@ -32,6 +32,9 @@ My work sits at the crossroads of **Machine Learning**, **Computer Vision**, **G
 ### 🐍 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-00C853?style=for-the-badge&logo=mysql&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![API](https://img.shields.io/badge/API-EF3B2D?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🤖 AI / ML Frameworks
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
