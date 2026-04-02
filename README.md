@@ -73,7 +73,7 @@ My work sits at the crossroads of **Machine Learning**, **Computer Vision**, **G
 
 ---
 
-### 📄 [AI HR Policy Assistant — RAG Pipeline](https://github.com/stevephilipgit/ai-hr-assistant)
+### 📄 [AI HR Policy Assistant — RAG Pipeline](https://github.com/stevephilipgit/hr_domain_rag_chat)
 > Enterprise-grade **RAG pipeline** that ingests PDF policy documents, converts them to embeddings, retrieves relevant sections via a vector database, and generates **cited answers** using a local LLM.
 
 `Python` `LangChain` `Vector DB` `Embeddings` `LLMs`
