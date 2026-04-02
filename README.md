@@ -60,9 +60,9 @@ My work sits at the crossroads of **Machine Learning**, **Computer Vision**, **G
 ## 🏗️ Featured Projects
 
 ###  [Research-Rag-Agent-assitant](https://github.com/stevephilipgit/research-agent-rag-app)
-> TensorFlow-based **Convolutional Neural Network** for digit recognition with a Tkinter GUI, confusion matrix, and evaluation metrics. Clean end-to-end ML pipeline.
+> The **RAG Agent Assistant** is designed to solve the problem of information overload in large document sets. Unlike standard chat-with-pdf tools, this system employs an **Agentic Pipeline** that can reason about queries, use specialized tools (like web search or calculators), and validate its own answers against source grounding to prevent hallucinations.
 
-`Python` `TensorFlow` `CNN` `Tkinter`
+`Python`  `FastAPI` `Pydantic v2, Uvicorn` `Groq (Llama-3.1-70B/8B)` `Qdrant Cloud` `Supabase Storage` `Redis ` `LangChain` `LangGraph` `SlowAPI`
 
 ---
 
