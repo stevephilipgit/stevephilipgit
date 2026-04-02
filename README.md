@@ -80,14 +80,7 @@ My work sits at the crossroads of **Machine Learning**, **Computer Vision**, **G
 
 ---
 
-### 🚗 [Speedometer Reading System](https://github.com/stevephilipgit/speedometer-reader)
-> Computer vision system that detects needle position from **analog speedometer images and video**, maps angles to speed values — bridging physical instruments with digital intelligence.
-
-`Python` `OpenCV` `Computer Vision` `Image Processing`
-
----
-
-### 🔢 [Digit Classification — CNN](https://github.com/stevephilipgit/digit-classification)
+### 🔢 [Research-Rag-Agent-assitant](https://github.com/stevephilipgit/research-agent-rag-app)
 > TensorFlow-based **Convolutional Neural Network** for digit recognition with a Tkinter GUI, confusion matrix, and evaluation metrics. Clean end-to-end ML pipeline.
 
 `Python` `TensorFlow` `CNN` `Tkinter`
