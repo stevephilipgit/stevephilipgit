@@ -59,6 +59,13 @@ My work sits at the crossroads of **Machine Learning**, **Computer Vision**, **G
 
 ## 🏗️ Featured Projects
 
+###  [Research-Rag-Agent-assitant](https://github.com/stevephilipgit/research-agent-rag-app)
+> TensorFlow-based **Convolutional Neural Network** for digit recognition with a Tkinter GUI, confusion matrix, and evaluation metrics. Clean end-to-end ML pipeline.
+
+`Python` `TensorFlow` `CNN` `Tkinter`
+
+---
+
 ### 🤖 [AgentFlow — Multi-Agent Orchestration System](https://github.com/stevephilipgit/agentflow)
 > Orchestrated multi-agent architecture with a **planner agent**, parallel **worker agents**, and a **synthesizer agent** for complex goal decomposition and execution. Built to handle real-world tasks that require reasoning across multiple steps.
 
@@ -80,10 +87,10 @@ My work sits at the crossroads of **Machine Learning**, **Computer Vision**, **G
 
 ---
 
-### 🔢 [Research-Rag-Agent-assitant](https://github.com/stevephilipgit/research-agent-rag-app)
-> TensorFlow-based **Convolutional Neural Network** for digit recognition with a Tkinter GUI, confusion matrix, and evaluation metrics. Clean end-to-end ML pipeline.
+### 📄 [AI HR Policy Assistant — RAG Pipeline](https://github.com/stevephilipgit/meeting-summarizer)
+> AI-powered meeting summarizer, paste entire meeting raw content to summarize and provide results also store them in Backend DBgenerates done using a Groq Llama 3.1 8B Instant llm.
 
-`Python` `TensorFlow` `CNN` `Tkinter`
+`Python` `FastAPI` `Groq Llama` `Mongo storage` `Clean routing structure` `CORS enabled` `Render` `Vercel`
 
 ---
 
