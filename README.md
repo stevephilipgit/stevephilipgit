@@ -87,7 +87,7 @@ My work sits at the crossroads of **Machine Learning**, **Computer Vision**, **G
 
 ---
 
-### 📄 [AI Meeting Summarizer — RAG Pipeline](https://github.com/stevephilipgit/meeting-summarizer)
+### 📄 [AI Meeting Summarizer](https://github.com/stevephilipgit/meeting-summarizer)
 > AI-powered meeting summarizer, paste entire meeting raw content to summarize and provide results also store them in Backend DBgenerates done using a Groq Llama 3.1 8B Instant llm.
 
 `Python` `FastAPI` `Groq Llama` `Mongo storage` `Clean routing structure` `CORS enabled` `Render` `Vercel`
