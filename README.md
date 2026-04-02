@@ -66,7 +66,7 @@ My work sits at the crossroads of **Machine Learning**, **Computer Vision**, **G
 
 ---
 
-### 🏭 [AI Safety Monitoring System](https://github.com/stevephilipgit/ai-safety-monitor)
+### 🏭 [AI Safety Monitoring System](https://github.com/stevephilipgit/ai-safety-cv-llm)
 > Real-time **computer vision system** that detects PPE violations and unsafe industrial conditions, with **LLM-generated safety reports** for compliance use cases. Built for industrial environments.
 
 `Python` `YOLO` `OpenCV` `LLMs` `Computer Vision`
