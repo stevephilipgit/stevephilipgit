@@ -67,7 +67,7 @@ My work sits at the crossroads of **Machine Learning**, **Computer Vision**, **G
 ### 🤖 [AgentFlow — Multi-Agent Orchestration System](https://github.com/stevephilipgit/agentflow)
 > Orchestrated multi-agent architecture with a **planner agent**, parallel **worker agents**, and a **synthesizer agent** for complex goal decomposition and execution. Built to handle real-world tasks that require reasoning across multiple steps.
 
-`Python` `LLMs` `Agentic AI` `Multi-Agent Systems`
+`Python` `LLMs` `Agentic AI` `Multi-Agent Systems`  `langchain` ` langgraph` 
 
 ---
 
