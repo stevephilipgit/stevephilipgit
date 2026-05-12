@@ -11,7 +11,7 @@
 
 ## 🧠 About Me
 
-I'm **Steve Philip** — an aspiring **AI Engineer** from **Chennai, India**, obsessed with building intelligent systems that solve real-world problems.
+I'm **Steve Philip** — an **AI Engineer** from **Chennai, India**, obsessed with building intelligent systems that solve real-world problems.
 
 My work sits at the crossroads of **Machine Learning**, **Computer Vision**, **Generative AI**, and **Agentic Systems** — turning raw data into decision-making engines.
 
