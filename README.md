@@ -10,6 +10,7 @@
 ## 🧠 About Me
 
 I'm **Steve Philip** — an **AI Engineer** from **Chennai, India**, obsessed with building intelligent systems that solve real-world problems.
+I build production-grade AI systems — RAG pipelines, multi-agent orchestration, and LLM-powered APIs. I focus on the full stack from vector retrieval to FastAPI deployment.
 
 My work sits at the crossroads of **Machine Learning**, **Computer Vision**, **Generative AI**, and **Agentic Systems** — turning raw data into decision-making engines.
 
