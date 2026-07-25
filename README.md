@@ -17,9 +17,8 @@ My work sits at the crossroads of **Machine Learning**, **Computer Vision**, **G
 - 🤖 I build things that **perceive, reason, and act** — from RAG pipelines to multi-agent orchestration systems
 - 🔭 Currently diving deep into **LLM application development**, **agentic workflows**, and **cloud deployment**
 - 🧩 I believe great AI is invisible — seamless, purposeful, and built to scale
-- 📚 BSc in Computer Science · MSc in Information Technology
+- 📚  MSc in Information Technology | BSc in Computer Science 
 - 💬 Ask me about **AI Agents, RAG pipelines, Computer Vision, and LLMs**
-- ⚡ Fun fact: I debug faster when I've convinced myself it's an interesting puzzle 🧩
 - 📫 Reach me: **[stevephilip.me86@gmail.com]**
 
 ---
