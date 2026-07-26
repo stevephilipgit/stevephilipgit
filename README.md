@@ -9,17 +9,28 @@
 
 ## 🧠 About Me
 
-I'm **Steve Philip** — an **AI Engineer** from **Chennai, India**, obsessed with building intelligent systems that solve real-world problems.
-I build production-grade AI systems — RAG pipelines, multi-agent orchestration, and LLM-powered APIs. I focus on the full stack from vector retrieval to FastAPI deployment.
+# Hi, I'm Steve Philip 👋
 
-My work sits at the crossroads of **Machine Learning**, **Computer Vision**, **Generative AI**, and **Agentic Systems** — turning raw data into decision-making engines.
+I'm an aspiring **Data Analyst** and **Data Scientist** from Chennai, India, passionate about turning data into meaningful insights and solving real-world problems through analytics and machine learning.
 
-- 🤖 I build things that **perceive, reason, and act** — from RAG pipelines to multi-agent orchestration systems
-- 🔭 Currently diving deep into **LLM application development**, **agentic workflows**, and **cloud deployment**
-- 🧩 I believe great AI is invisible — seamless, purposeful, and built to scale
-- 📚  MSc in Information Technology | BSc in Computer Science 
-- 💬 Ask me about **AI Agents, RAG pipelines, Computer Vision, and LLMs**
-- 📫 Reach me: **[stevephilip.me86@gmail.com]**
+I enjoy working with data—from cleaning and analysis to visualization, predictive modelling, and building data-driven solutions using Python, SQL, and Power BI.
+
+### 📊 Interests
+
+* Data Analytics
+* Data Science
+* Machine Learning
+* Data Visualization
+* Business Intelligence
+
+### 💻 Tech Stack
+
+**Python • SQL • Pandas • NumPy • Scikit-learn • Power BI • Tableau • Excel • Matplotlib • Seaborn • Git**
+
+### 📫 Connect
+
+**[stevephilip.me86@gmail.com](mailto:stevephilip.me86@gmail.com)**
+
 
 ---
 
