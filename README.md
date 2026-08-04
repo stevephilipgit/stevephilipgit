@@ -11,18 +11,18 @@
 
 # Hi, I'm Steve Philip 👋
 
-I'm an aspiring **Data Analyst** and **Data Scientist** from Chennai, India, passionate about turning data into meaningful insights and solving real-world problems through analytics and machine learning.
+I'm a **Data Scientist** from Chennai, India, passionate about turning data into meaningful insights and solving real-world problems through analytics and machine learning.
 
 I enjoy working with data—from cleaning and analysis to visualization, predictive modelling, and building data-driven solutions using Python, SQL, and Power BI.
 
 ### 📊 Interests
 
-* Data Analytics
 * Data Science
 * Machine Learning
-* Data Visualization
-* Business Intelligence
-
+* Computer Vision
+* Agentic AI
+* RAG, LLM
+  
 ### 💻 Tech Stack
 
 **Python • SQL • Pandas • NumPy • Scikit-learn • Power BI • Tableau • Excel • Matplotlib • Seaborn • Git**
